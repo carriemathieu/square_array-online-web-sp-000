@@ -3,5 +3,5 @@ def square_array(array)
     squares = []
     squares << square ** 2
   end  
-  squares
+  return squares
 end
